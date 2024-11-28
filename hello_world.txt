@@ -1,1 +1,3 @@
 This is a Git commit.
+
+This is a Git commit test.
