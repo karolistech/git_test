@@ -1,10 +1,3 @@
 # git_test
 
-Hello.
-Test.
-Test2..
-Test3.
-Test4.
-
-Test 5.
-Test 6.
+Git commit test on Linux.
