@@ -2,4 +2,4 @@
 
 Git commit test on Linux.
 
-New line test.
+New line test. 1
