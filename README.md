@@ -2,4 +2,4 @@
 
 Git commit test on Linux.
 
-New line test. 122345
+New line test. 1223456
